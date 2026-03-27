@@ -37,6 +37,10 @@
 
 **MASFactory** is a graph-centric framework for orchestrating Multi-Agent Systems with **Vibe Graphing**:
 
+The goal of this fork:
+- Define Codex skills to work effective and efficiently in the MASFactory repository for building examples and enhancements
+- Integrate Codex CLI as an delegated autonomous worker runtime Node called CodexCliRuntime in MASFactory.
+
 Start from intent, generate a graph design, preview and refine it in a visual environment, compile it into an executable workflow, and trace node states, messages, and shared state at runtime.
 
 - Paper: http://arxiv.org/abs/2603.06007
